@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* A képek középre akarom helyezni a szöveg mögé*/
+.image{
+    border-radius: 10px;    
+    align-content: center;
+}
+body{
+    background-color: #778899;
+    align-items: center;
+    align-content: center;
+}
+p,h1,h4{
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+/*középre helyezni az oldalon */
+hr{
+    width: 50%;
+    align-content: center;
+}
+
+/* A skilljeimet egy containerben akarom megoldani */
